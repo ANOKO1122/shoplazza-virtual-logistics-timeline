@@ -1,0 +1,11 @@
+# 操作系统
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Office 临时文件
+~$*
+
+# 编辑器
+.vscode/
+.idea/
